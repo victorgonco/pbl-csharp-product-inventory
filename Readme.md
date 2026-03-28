@@ -1,4 +1,6 @@
 # Propósito deste projeto.
+![escopo](project-scope.png)
+
 Este é um projeto em C# que será codificado para aprender a linguagem através da estratégia de PBL (Aprendizagem Baseada em Projetos).
 
 O propósito do projeto é abordar algumas coisas: 
