@@ -10,9 +10,9 @@ namespace ProductInventory.Api.Services
     {
         public ProductsReadService(){}
 
-        public List<> FindAll()
+        public List<String> FindAll()
         {
-            return new List<> { "Ana", "Bruno", "Carla", "Daniel" };
+            return new List<String> { "Ana", "Bruno", "Carla", "Daniel" };
         }
     }
 }
