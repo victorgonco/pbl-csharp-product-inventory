@@ -1,12 +1,18 @@
-# Purpose of this project.
-This is a Csharp project that will be coded to learn the language by a PBL's strategy.
+# Propósito deste projeto.
+Este é um projeto em C# que será codificado para aprender a linguagem através da estratégia de PBL (Aprendizagem Baseada em Projetos).
 
-The core of the project is to propose some things: 
-- Basic syntax (conditionals, loops, data structure and more)
-- Project component structure (namespaces, classes, methods, and more)
-- Core library / frameworks to interact with external world (archives, databases, HTTP clients, and more)
+O propósito do projeto é abordar algumas coisas: 
+- Sintaxe básica (condicionais, laços, estruturas de dados e mais)
+- Estrutura de componentes do projeto (namespaces, classes, métodos e mais)
+- Bibliotecas / frameworks principais para interagir com o mundo externo (arquivos, bancos de dados, clientes HTTP e mais)
 
 ---
-This will be coded without AI help, only documentation and google of some simple informations like:
-- Allowed questions: What library should I use to connect with databases in C#? Then open the documentation of that library and go on.
-- Not allowed questions: How to connect to a databases on c#? This because will give me the answer and not the search/memorize routine needed to learn.
+# Regras
+Isso será codificado sem ajuda de IA, apenas documentação e pesquisas no google de informações simples como:
+- Perguntas permitidas: Qual biblioteca devo usar para conectar com bancos de dados em C#? Então abrir a documentação dessa biblioteca e continuar.
+- Perguntas não permitidas: Como conectar a um banco de dados em C#? Isso porque dará a resposta e não a rotina de pesquisa/interpretação/memorização necessária para aprender.
+
+---
+
+# Notas de estudo
+Estão num doc do google drive, inicialmente era um .md, mas se eu precisar consultar não dá para acessar pelo celular.

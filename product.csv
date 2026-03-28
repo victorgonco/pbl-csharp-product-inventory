@@ -1,0 +1,6 @@
+name,price,quantity,active
+Notebook,3500.00,10,true
+Mouse,150.00,50,true
+Teclado,250.00,30,true
+Monitor,1200.00,15,false
+Headset,400.00,20,true
