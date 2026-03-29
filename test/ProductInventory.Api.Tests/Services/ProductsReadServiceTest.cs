@@ -22,7 +22,7 @@ namespace ProductInventory.Api.Tests.Services
         [InlineData(1)]
         public void Should_Call_With_Values(int value)
         {
-            Assert.True(value > 0, "Deve retornar algo");
+            Assert.True(value != 9, "Numeros diferentes de 9");
         }
 
     }
